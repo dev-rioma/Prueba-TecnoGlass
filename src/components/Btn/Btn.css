@@ -1,0 +1,11 @@
+.hover {
+  background-color: transparent;
+  border: 1px solid #ffff;
+  font-weight: bold;
+}
+
+.hover:hover {
+  background-color: white;
+  border-color: black;
+  color: black;
+}

@@ -4,7 +4,7 @@ const CampSearch = ({ handleSearch }) => {
   return (
     <div className="input-text">
       {/* <label>Search:</label> */}
-      <input type="text" onChange={handleSearch} placeholder="Search show" />
+      <input type="text" onChange={handleSearch} placeholder="Search " />
     </div>
   );
 };
