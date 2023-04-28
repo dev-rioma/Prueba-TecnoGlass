@@ -2,6 +2,10 @@
   background-color: transparent;
   border: 1px solid #ffff;
   font-weight: bold;
+  box-sizing: border-box;
+  color: #ffff;
+  padding: 0.5rem;
+  border-radius: 6px;
 }
 
 .hover:hover {
