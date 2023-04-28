@@ -38,29 +38,27 @@ La aplicación estará disponible en `http://localhost:3000`.
 El proyecto tiene la siguiente estructura de directorios:
 
 Prueba-TecnoGlass/
+
 ├── src/
+
 │ ├── components/ # Componentes reutilizables
+
 │ ├── pages/ # Páginas principales de la aplicación
+
 │ ├── context/ # Contexto para la API
+
 │ ├── api/ # Configuración y funciones para consumir la API
+
 │ └── App.js # Componente raíz de la aplicación
+
 │
 ├── public/ # Archivos estáticos
+
 ├── package.json # Archivo de configuración de dependencias
+
 └── README.md # Este archivo README
 
 
-## Contribución
 
-Si deseas contribuir a este proyecto, puedes seguir estos pasos:
 
-1. Haz un fork de este repositorio.
-2. Crea una rama con una nueva funcionalidad: `git checkout -b nueva-funcionalidad`
-3. Realiza tus cambios y realiza commits: `git commit -m 'Agrega nueva funcionalidad'`
-4. Haz push a la rama: `git push origin nueva-funcionalidad`
-5. Crea un pull request en este repositorio.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes ver el archivo [LICENSE](LICENSE) para más detalles.
 
