@@ -1,0 +1,12 @@
+.input-text input {
+  margin-left: 0.5rem;
+  border-radius: 8px;
+  box-sizing: border-box;
+  padding: 0.2rem;
+  background-color: rgba(255, 255, 255, 0.6);
+  height: 2rem;
+}
+
+.input-text input::placeholder {
+  color: black;
+}

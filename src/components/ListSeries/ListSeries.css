@@ -1,0 +1,23 @@
+.box-series {
+  margin: 3rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0 12%;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 600px) {
+  .box-series {
+    padding: 0 0;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .box-series {
+    padding: 0 4%;
+  }
+}
